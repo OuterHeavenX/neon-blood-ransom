@@ -1,0 +1,30 @@
+# Neon Blood Ransom
+
+A complete single-file neon gothic beat-’em-up for desktop and mobile. Play as a young vampire Night Warden, reclaim Gridhaven, recruit allies, learn Blood Arts, and shatter the Corrupted Signal.
+
+## Play
+
+Open `index.html` in any modern browser. No installation, server, build step, or external assets are required.
+
+### Controls
+
+- Move: WASD or Arrow keys
+- Attack/combo: Z
+- Blood Art: X
+- Jump: C or Space
+- Menu/status: Escape
+- Mobile: large on-screen D-pad, Hit, Blood, Jump, and Menu controls
+
+The game autosaves in your browser and includes three manual save slots.
+
+## GitHub Pages
+
+Suggested repository name: **neon-blood-ransom**
+
+1. Create a repository named `neon-blood-ransom`.
+2. Upload `index.html` and `README.md` to the repository root.
+3. In GitHub, open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
+5. GitHub will provide the public game URL after deployment finishes.
+
+All progress is stored locally per browser via `localStorage`.
