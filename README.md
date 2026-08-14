@@ -1,6 +1,6 @@
 # Neon Blood Ransom
 
-A complete single-file neon gothic beat-’em-up for desktop and mobile. Play as a young vampire Night Warden, reclaim Gridhaven, recruit allies, learn Blood Arts, and shatter the Corrupted Signal.
+A complete single-file gothic beat-’em-up for desktop and mobile. Travel through moonlit towns, cottages, woods, and cemeteries as a young vampire Night Warden. Recruit allies, learn Blood Arts, and shatter the Corrupted Signal.
 
 ## Play
 
