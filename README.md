@@ -2,6 +2,8 @@
 
 A complete single-file gothic beat-’em-up for desktop and mobile. Travel through moonlit towns, cottages, woods, and cemeteries as a young vampire Night Warden. Recruit allies, learn Blood Arts, and shatter the Corrupted Signal.
 
+**Blood Moon Beta** adds interactive combat training, a completion codex, distinctive ruler attacks and arenas, retuned progression, expanded ambient audio, and a full mobile accessibility suite.
+
 ## Play
 
 Open `index.html` in any modern browser. No installation, server, build step, or external assets are required.
@@ -25,9 +27,9 @@ On iPhone, use **Share → Add to Home Screen** to launch without Safari’s add
 
 The game autosaves in your browser and includes three manual save slots.
 
-Seven combat districts feature multi-wave roads, destructible scenery, loot, healing shrines, phased bosses, quests, party recruitment, rare equipment, explorable interiors, lore, achievements, time trials, difficulty modes, New Game+, weather, and a final castle ending. Music and sound effects are generated directly in the browser without external files.
+Seven combat districts feature multi-wave roads, destructible scenery, loot, healing shrines, phased bosses, quests, party recruitment, rare equipment, explorable interiors, lore, achievements, time trials, difficulty modes, New Game+, weather, and a final castle ending. Every district ruler has a unique signature attack and arena identity. Music and sound effects are generated directly in the browser without external files.
 
-Open **Status → System** to change difficulty, test vibration, begin New Game+ after completing the campaign, or download a self-contained offline copy.
+Open **Status → Codex** to track creatures, rulers, equipment, Blood Arts, and total discovery. Open **Status → System** to change difficulty; enable large text, reduced motion/flashing, high contrast, dim or left-handed controls; replay the tutorial; begin New Game+ after completing the campaign; send beta feedback; or download a self-contained offline copy.
 
 ## GitHub Pages
 
