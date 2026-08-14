@@ -9,15 +9,22 @@ Open `index.html` in any modern browser. No installation, server, build step, or
 ### Controls
 
 - Move: WASD or Arrow keys
-- Attack/combo: Z
-- Blood Art: X
+- Attack/combo: Z (third strike kicks or throws)
+- Uppercut: Up + Z after learning Grave Uppercut
+- Sweep: Down + Z
+- Block: Hold Down while standing still
+- Blood Art: X; hold and release for a charged cast
 - Jump: C or Space
+- Jump attack: Jump, then press Z
+- Dash: double-tap Left or Right after learning Photon Rush
 - Menu/status: Escape
 - Mobile: large on-screen D-pad, Hit, Blood, Jump, and Menu controls
 
 On iPhone, use **Share → Add to Home Screen** to launch without Safari’s address bars and get the largest play area.
 
 The game autosaves in your browser and includes three manual save slots.
+
+Seven combat districts feature multi-wave roads, destructible scenery, loot, healing shrines, unique bosses, quests, party recruitment, rare equipment, and a final castle ending. Music and sound effects are generated directly in the browser without external files.
 
 ## GitHub Pages
 
