@@ -15,6 +15,8 @@ Open `index.html` in any modern browser. No installation, server, build step, or
 - Menu/status: Escape
 - Mobile: large on-screen D-pad, Hit, Blood, Jump, and Menu controls
 
+On iPhone, use **Share → Add to Home Screen** to launch without Safari’s address bars and get the largest play area.
+
 The game autosaves in your browser and includes three manual save slots.
 
 ## GitHub Pages
