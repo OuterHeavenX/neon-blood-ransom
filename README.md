@@ -16,6 +16,7 @@ Open `index.html` in any modern browser. No installation, server, build step, or
 - Blood Art: X; hold and release for a charged cast
 - Jump: C or Space
 - Jump attack: Jump, then press Z
+- Dodge roll: hold Down and press Jump
 - Dash: double-tap Left or Right after learning Photon Rush
 - Menu/status: Escape
 - Mobile: large on-screen D-pad, Hit, Blood, Jump, and Menu controls
@@ -24,7 +25,9 @@ On iPhone, use **Share → Add to Home Screen** to launch without Safari’s add
 
 The game autosaves in your browser and includes three manual save slots.
 
-Seven combat districts feature multi-wave roads, destructible scenery, loot, healing shrines, unique bosses, quests, party recruitment, rare equipment, and a final castle ending. Music and sound effects are generated directly in the browser without external files.
+Seven combat districts feature multi-wave roads, destructible scenery, loot, healing shrines, phased bosses, quests, party recruitment, rare equipment, explorable interiors, lore, achievements, time trials, difficulty modes, New Game+, weather, and a final castle ending. Music and sound effects are generated directly in the browser without external files.
+
+Open **Status → System** to change difficulty, test vibration, begin New Game+ after completing the campaign, or download a self-contained offline copy.
 
 ## GitHub Pages
 
