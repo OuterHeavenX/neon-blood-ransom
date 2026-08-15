@@ -8,7 +8,7 @@ A complete single-file gothic beat-’em-up for desktop and mobile. Travel throu
 
 **Pixel Control Update** rebuilds heroes, companions, and enemies as crisp multi-layer pixel sprites. Mobile play is landscape-only and uses a floating analog joystick: touch anywhere on the left side to summon it, drag in any direction for continuous 360-degree movement, and release to hide it.
 
-**Vesper Animation Pack** replaces the temporary three-frame hero with 63 authored frames: four idle, six walk, eight run, two six-frame punches, six kick, five jump, three hurt, three block, eight dodge-roll, eight Blood Art, and six knockdown/recovery frames. The Canvas state machine selects every animation directly from gameplay timing.
+**Vesper Animation Pack** replaces the temporary three-frame hero with 63 authored frames: four idle, six walk, eight run, two six-frame punches, six kick, five jump, three hurt, three block, eight dodge-roll, eight Blood Art, and six knockdown/recovery frames. The Canvas state machine selects the cleanest gameplay frames, skips damaged atlas cuts, and layers Blood Art effects over the full-size character.
 
 Movement is analog on mobile: a partial joystick tilt walks and a full tilt runs. Keyboard players hold **Shift** while moving to run.
 
