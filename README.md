@@ -51,4 +51,4 @@ All progress is stored locally per browser via `localStorage`.
 ## Pixel Art Assets
 
 - `assets/vesper-vampire-concept.png` — high-resolution Vesper character concept
-- `assets/vesper-animation-sheet-3x3.png` — transparent nine-frame sheet: three walk, three punch, and three kick frames
+- `assets/vesper-animation-sheet-3x3.png` — transparent nine-frame sheet used directly by the Canvas renderer: three walk, three punch, and three kick frames
