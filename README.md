@@ -6,6 +6,8 @@ A complete single-file gothic beat-’em-up for desktop and mobile. Travel throu
 
 **Nightfall Expansion** opens The Last Lantern tavern with bounties, branching decisions, rumors, and party selection. It also adds elite encounters, randomized relic rarities, castle traps and Blood Keys, a castle shortcut, richer combat animation, automatic controller support, remappable action keys, and portable save runes.
 
+**Pixel Control Update** rebuilds heroes, companions, and enemies as crisp multi-layer pixel sprites. Mobile play is landscape-only and uses a floating analog joystick: touch anywhere on the left side to summon it, drag in any direction for continuous 360-degree movement, and release to hide it.
+
 ## Play
 
 Open `index.html` in any modern browser. No installation, server, build step, or external assets are required.
@@ -23,7 +25,7 @@ Open `index.html` in any modern browser. No installation, server, build step, or
 - Dodge roll: hold Down and press Jump
 - Dash: double-tap Left or Right after learning Photon Rush
 - Menu/status: Escape
-- Mobile: large on-screen D-pad, Hit, Blood, Jump, and Menu controls
+- Mobile: floating 360-degree joystick on the left, plus Hit, Blood, Jump, and Menu buttons
 - Controller: left stick/D-pad to move, A to attack, B to jump, X to cast, Start for menu
 
 On iPhone, use **Share → Add to Home Screen** to launch without Safari’s address bars and get the largest play area.
