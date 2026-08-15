@@ -38,6 +38,8 @@ The game autosaves in your browser and includes three manual save slots.
 
 Seven combat districts feature multi-wave roads, destructible scenery, loot, healing shrines, phased bosses, quests, party recruitment, rare equipment, explorable interiors, lore, achievements, time trials, difficulty modes, New Game+, weather, and a final castle ending. Every district ruler has a unique signature attack and arena identity. Music and sound effects are generated directly in the browser without external files.
 
+**Enterable Buildings:** Approach a marked doorway on any combat road and press Up to enter. Each district contains a themed interior with a resident, unique dialogue, permanent lore, and a one-time treasure cache. Leaving restores the street encounter exactly where it was paused.
+
 Open **Status → Codex** to track creatures, rulers, equipment, Blood Arts, and total discovery. **Relics** lists randomized treasures, while **Controls** remaps keyboard actions and exports or imports a portable save rune. Open **System** to change difficulty; enable large text, reduced motion/flashing, high contrast, dim or left-handed controls; replay the tutorial; begin New Game+ after completing the campaign; send beta feedback; or download a self-contained offline copy.
 
 ## GitHub Pages
