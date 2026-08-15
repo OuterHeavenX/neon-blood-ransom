@@ -10,6 +10,8 @@ A complete single-file gothic beat-’em-up for desktop and mobile. Travel throu
 
 **Vesper Animation Pack** replaces the temporary three-frame hero with 63 authored frames: four idle, six walk, eight run, two six-frame punches, six kick, five jump, three hurt, three block, eight dodge-roll, eight Blood Art, and six knockdown/recovery frames. The Canvas state machine selects every animation directly from gameplay timing.
 
+Movement is analog on mobile: a partial joystick tilt walks and a full tilt runs. Keyboard players hold **Shift** while moving to run.
+
 ## Play
 
 Open `index.html` in any modern browser. No installation, server, build step, or external assets are required.
