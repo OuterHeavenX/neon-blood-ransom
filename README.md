@@ -47,3 +47,8 @@ Suggested repository name: **neon-blood-ransom**
 5. GitHub will provide the public game URL after deployment finishes.
 
 All progress is stored locally per browser via `localStorage`.
+
+## Pixel Art Assets
+
+- `assets/vesper-vampire-concept.png` — high-resolution Vesper character concept
+- `assets/vesper-animation-sheet-3x3.png` — transparent nine-frame sheet: three walk, three punch, and three kick frames
