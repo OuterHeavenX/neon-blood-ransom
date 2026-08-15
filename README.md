@@ -4,6 +4,8 @@ A complete single-file gothic beat-’em-up for desktop and mobile. Travel throu
 
 **Blood Moon Beta** adds interactive combat training, a completion codex, distinctive ruler attacks and arenas, retuned progression, expanded ambient audio, and a full mobile accessibility suite.
 
+**Nightfall Expansion** opens The Last Lantern tavern with bounties, branching decisions, rumors, and party selection. It also adds elite encounters, randomized relic rarities, castle traps and Blood Keys, a castle shortcut, richer combat animation, automatic controller support, remappable action keys, and portable save runes.
+
 ## Play
 
 Open `index.html` in any modern browser. No installation, server, build step, or external assets are required.
@@ -22,6 +24,7 @@ Open `index.html` in any modern browser. No installation, server, build step, or
 - Dash: double-tap Left or Right after learning Photon Rush
 - Menu/status: Escape
 - Mobile: large on-screen D-pad, Hit, Blood, Jump, and Menu controls
+- Controller: left stick/D-pad to move, A to attack, B to jump, X to cast, Start for menu
 
 On iPhone, use **Share → Add to Home Screen** to launch without Safari’s address bars and get the largest play area.
 
@@ -29,7 +32,7 @@ The game autosaves in your browser and includes three manual save slots.
 
 Seven combat districts feature multi-wave roads, destructible scenery, loot, healing shrines, phased bosses, quests, party recruitment, rare equipment, explorable interiors, lore, achievements, time trials, difficulty modes, New Game+, weather, and a final castle ending. Every district ruler has a unique signature attack and arena identity. Music and sound effects are generated directly in the browser without external files.
 
-Open **Status → Codex** to track creatures, rulers, equipment, Blood Arts, and total discovery. Open **Status → System** to change difficulty; enable large text, reduced motion/flashing, high contrast, dim or left-handed controls; replay the tutorial; begin New Game+ after completing the campaign; send beta feedback; or download a self-contained offline copy.
+Open **Status → Codex** to track creatures, rulers, equipment, Blood Arts, and total discovery. **Relics** lists randomized treasures, while **Controls** remaps keyboard actions and exports or imports a portable save rune. Open **System** to change difficulty; enable large text, reduced motion/flashing, high contrast, dim or left-handed controls; replay the tutorial; begin New Game+ after completing the campaign; send beta feedback; or download a self-contained offline copy.
 
 ## GitHub Pages
 
