@@ -8,6 +8,8 @@ A complete single-file gothic beat-’em-up for desktop and mobile. Travel throu
 
 **Pixel Control Update** rebuilds heroes, companions, and enemies as crisp multi-layer pixel sprites. Mobile play is landscape-only and uses a floating analog joystick: touch anywhere on the left side to summon it, drag in any direction for continuous 360-degree movement, and release to hide it.
 
+**Vesper Animation Pack** replaces the temporary three-frame hero with 63 authored frames: four idle, six walk, eight run, two six-frame punches, six kick, five jump, three hurt, three block, eight dodge-roll, eight Blood Art, and six knockdown/recovery frames. The Canvas state machine selects every animation directly from gameplay timing.
+
 ## Play
 
 Open `index.html` in any modern browser. No installation, server, build step, or external assets are required.
@@ -51,4 +53,8 @@ All progress is stored locally per browser via `localStorage`.
 ## Pixel Art Assets
 
 - `assets/vesper-vampire-concept.png` — high-resolution Vesper character concept
-- `assets/vesper-animation-sheet-3x3.png` — transparent nine-frame sheet used directly by the Canvas renderer: three walk, three punch, and three kick frames
+- `assets/vesper-animation-sheet-3x3.png` — original legacy nine-frame prototype sheet
+- `assets/vesper-locomotion-atlas.png` — idle, six-frame walk, and eight-frame run cycles
+- `assets/vesper-melee-atlas.png` — two punch sequences and a six-frame kick
+- `assets/vesper-defense-atlas.png` — jump, hurt, block, and dodge-roll sequences
+- `assets/vesper-blood-atlas.png` — Blood Art and knockdown/recovery sequences
